@@ -119,3 +119,5 @@ This is the folder containing all of the Colab Notebooks used to train the model
     - Creates a 60/40 split by downloading the corresponding images and annotations with a split.
     - Trains the dataset on the YOLOv11m with the 60/40 split. 
 
+### computer_vision_Final_Report.pdf
+This is the report done as a collaborative effort describing the efforts of each team member and thorough explanations about the Wavelet method and models used to improve the baseline FathomNet model.
